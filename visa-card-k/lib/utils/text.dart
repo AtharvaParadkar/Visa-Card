@@ -16,7 +16,7 @@ class MyText extends StatelessWidget {
       style: GoogleFonts.mada(
         color: color,
         fontSize: size,
-        fontStyle: FontStyle.italic,
+        fontStyle: FontStyle.normal,
       ),
     );
   }

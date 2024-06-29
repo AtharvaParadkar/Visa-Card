@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:visa_card_k/pages/content.dart';
 import 'package:visa_card_k/utils/colors.dart';
 
 class Home extends StatelessWidget {
@@ -26,7 +27,7 @@ class Home extends StatelessWidget {
             height: 250,
             width: MediaQuery.of(context).size.width,
             decoration: BoxDecoration(color: AppColors.cardbgcolor,boxShadow: AppColors.shadows),
-            // child: const Content(),
+            child: const Content(),
           ),
         ),
       ),
