@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 // 255, 234, 33, 39
 class AppColors {
-  static Color bgcolor1 = const Color.fromARGB(255, 255, 80, 80),
-      bgcolor2 = const Color.fromARGB(255, 255, 0, 0),
+  static Color bgcolor1 = const Color.fromARGB(255, 255, 90, 90),
+      bgcolor2 = const Color.fromARGB(255, 255, 20, 20),
       cardbgcolor = const Color.fromARGB(255, 234, 33, 39),
       appbarcolor = const Color.fromARGB(255, 255, 0, 0);
 
